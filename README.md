@@ -2,7 +2,7 @@
 
 WebApp for ML model which can recognize digits. 
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/LizaKurilo/LizaKurilo.github.io/blob/main/image.png)
 
 ## Steps
 
