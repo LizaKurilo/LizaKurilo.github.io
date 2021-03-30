@@ -2,7 +2,7 @@
 
 ## Steps
 
-1. **Train model.**  With MNIST_on_GPU.ipynb notebbok.
+1. **Train model.**  With MNIST_on_GPU.ipynb notebook.
 2. **Convert a Keras model to Tensorflow.js.** Run
  
         $ !pip install tensorflowjs
