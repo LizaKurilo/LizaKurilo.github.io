@@ -20,7 +20,7 @@
  That opens a tunnel to a URL that you can access from through phone.
  
 Or you can just run it throw link:
-https://LizaKurilo.github.io/tfjs.html
+https://LizaKurilo.github.io/tfjs.html \
 Or make your one repository named “{username}.github.io”
 
 
