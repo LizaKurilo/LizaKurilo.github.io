@@ -5,8 +5,8 @@
 1. **Train model.**  With MNIST_on_GPU.ipynb notebook.
 2. **Convert a Keras model to Tensorflow.js.** Run
  
-         !pip install tensorflowjs
-         !tensorflowjs_converter --input_format keras ‘./model.h5’ ‘./model’
+       !pip install tensorflowjs
+       !tensorflowjs_converter --input_format keras ‘./model.h5’ ‘./model’
      
      
 3. **HTML5 Canvas file.** Create a simple HTML page that uses the HTML5 Canvas component that lets us draw on it. Call this file “tfjs.html”.
@@ -16,7 +16,7 @@
     
  To test on phone:
  
-    $ ngrok http 8080
+        $ ngrok http 8080
  That opens a tunnel to a URL that you can access from through phone.
  
 Or you can just run it throw link:
