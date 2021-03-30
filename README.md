@@ -1,5 +1,9 @@
 # Deploying a Simple Machine Learning Model into a WebApp using TensorFlow.js
 
+WebApp for ML model which can recognize digits. 
+
+![alt text](http://url/to/img.png)
+
 ## Steps
 
 1. **Train model.**  With MNIST_on_GPU.ipynb notebook.
