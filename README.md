@@ -16,7 +16,7 @@
     
  To test on phone:
  
-        $ ngrok http 8080
+    $ ngrok http 8080
  That opens a tunnel to a URL that you can access from through phone.
  
 Or you can just run it throw link:
